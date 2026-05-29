@@ -12,7 +12,7 @@ This project was completed as part of a data analytics mini course. Acting as a 
 ### 1. Total Sales by Year
 ![Query & Result for Q1](images/result_1.png)
 
-### 2. Country with the highest Classi Cars sales (2004)
+### 2. Country with the highest Classic Cars sales (2004)
 ![Query & Result for Q2](images/result_2.png)
 
 ### 3. Most sold product line (by quantity) from Sep 2003 to Mar 2004
